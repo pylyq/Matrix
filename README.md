@@ -16,7 +16,7 @@ Credits
 - Xuyang Wang
 - Steve Deng
 - Cao Ao 
-- Xuelong Sun
+- Xuelong Sun 
 - Zheng He
 - Shaoqing Long
 - Allen Hao
